@@ -1,4 +1,4 @@
-# CRM Analytics: Sesión 6
+# CRM Analytics
 ## Scrapping de Redes Sociales y Análisis de Sentimiento
 
 ### Caso: McDonald's 
